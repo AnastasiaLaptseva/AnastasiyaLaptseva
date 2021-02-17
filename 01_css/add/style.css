@@ -1,0 +1,18 @@
+.adr{ 
+    text-align: right;
+}
+p{
+    font-family: 'Caveat', cursive;
+    text-indent: 10px;
+    font-size: 1.3em;
+}
+h3 {
+    font-family: 'Caveat', cursive;
+    text-decoration: underline;
+    text-indent: 10px;
+    font-weight: bolder;
+}
+h4 {
+    font-weight: bold;
+    text-align: right;
+}
